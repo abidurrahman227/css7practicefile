@@ -1,0 +1,115 @@
+
+*{margin: 0%;}
+
+.divboxmodel1{
+   margin: 20px;
+   border: 10px solid rgb(75, 0, 0);
+   border-radius: 20px;
+   padding: 20px 20px;
+   color: white;
+   background-color: brown;
+   width: 300px;
+   box-shadow: 10px 10px 10px rgb(92, 92, 92);
+}
+.boxmodel1{
+   text-decoration: overline;
+   /* display: none; */
+   /* visibility: hidden; */
+   padding: 0%;
+}
+.lorem1{
+   text-decoration: underline;
+   text-align: justify;
+}
+.divboxmodel2{
+   margin: 20px;
+   border: 10px solid rgb(0, 59, 87);
+   border-radius: 20px;
+   padding: 20px 20px;
+   color: white;
+   background-color: rgb(0, 137, 201);
+   width: 300px;
+   box-shadow: 10px 20px 20px rgb(92, 92, 92);
+}
+.lorem2{
+   text-align: justify;
+}
+.Numquam{
+   border: 2px solid red;
+   padding: 0px 5px;
+   font-family: sans-serif ;
+   font-weight: bold;
+   /* display: inline-block; */
+}
+.divboxmodel3{
+   margin: 20px;
+   border: 10px solid rgb(0, 117, 0);
+   border-radius: 20px;
+   padding: 20px 20px;
+   color: white;
+   background-color: rgb(0, 177, 0);
+   width: 300px;
+   box-shadow: 10px 20px 20px rgb(92, 92, 92);
+}
+.Numquam2{
+   border: 2px solid rgb(81, 255, 0);
+   padding: 0px 5px;
+   font-family: sans-serif ;
+   /* font-weight: bold; */
+   display: block;
+   width: 130px;
+}
+.laborum{
+   border: 3px solid black;
+   height: 40px;
+   display: inline-block;
+   padding: 0px 4px;
+}
+#List{
+   display: inline;
+}
+li{
+   display: inline;
+   background-color: blue;
+   color: white;
+   border: 4px solid skyblue;
+   padding: 5px;
+}
+.header{
+   /* display: inline; */
+   /* margin: 40px; */
+   padding: 20px;
+   font-size: 35px;
+   color: white;
+   height: 500px;
+   width: 100%;
+   /* background-image: url('blockchainbg.jpg'); */
+   background-image: url('../images/blockchainbg.jpg');
+   background-size: cover;
+}
+menu{
+   display: inline;
+   /* background-color: rgba(0, 0, 224, 0.74); */
+   /* color: white; */
+   /* text-align: center; */
+   /* padding: 5px; */
+}
+
+.menubar{
+   /* display: inline; */
+   background-color: rgb(0, 12, 119);
+   color: white;
+   text-align: center;
+   padding: 10px;
+   /* opacity: 20%; */
+   /* background-image: url(../images/blockchainbg.jpg); */
+}
+[title="Selector"]{
+   color: red;
+   margin: 20px;
+   padding: 10px;
+   border: 5px solid red;
+   /* border-radius: 0px 20px; */
+   border-radius: 20px 0px;
+   width: 300px;
+}

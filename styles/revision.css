@@ -1,0 +1,125 @@
+*{
+   margin: 0%;
+}
+.header{
+   width: auto;
+   height: 1200px;
+   color: white;
+   font-size: 50px;
+   text-align: center;
+   /* background-image: url(../images/cssfavicon.png) ; */
+   /* background-repeat: no-repeat; */
+   /* background-color: bisque; */
+   /* padding-left: 30px;
+   padding-top: 30px; */
+   padding: 30px 30px;
+   background-image: url(/images/blockchainbg.jpg);
+   /* background-repeat:repeat-y ; */
+   /* background-repeat:repeat-x ; */
+   /* background-repeat: repeat; */
+   /* background-position: 150%; */
+   /* background-repeat: no-repeat; */
+   background-size: cover;
+}
+
+
+
+
+
+
+
+.headertag1{
+         color: rgb(255, 255, 255); 
+         font-size: 30px; 
+         font-weight: 700; 
+         text-align: center; 
+         background-color: rgb(0, 59, 253); 
+         width: 500px; 
+         border: 10px solid rgb(0, 217, 255); 
+         border-radius: 10px ;
+         margin: 20px;
+         padding: 0px 50px 80px 120px;
+      }
+.headertag2{
+         color: rgb(255, 255, 255); 
+         font-size: 30px; 
+         font-weight: 700; 
+         text-align: center; 
+         background-color: rgb(0, 59, 253); 
+         width: 500px; 
+         border: 10px solid rgb(0, 217, 255); 
+         border-radius: 10px 30px;
+         margin: 20px;
+         /* display: inline; */
+         /* display: none; */
+         /* visibility: hidden; */
+
+
+
+      }
+.headertag3{
+         color: rgb(255, 255, 255); 
+         font-size: 30px; 
+         font-weight: 700; 
+         text-align: center; 
+         background-color: rgb(0, 59, 253); 
+         width: 500px; 
+         border: 10px solid rgb(0, 217, 255); 
+         border-radius: 10px 30px 60px;
+         margin: 20px;
+      }
+.headertag4{
+         color: rgb(255, 255, 255); 
+         font-size: 30px; 
+         font-weight: 700; 
+         text-align: center; 
+         background-color: rgb(0, 59, 253); 
+         width: 500px; 
+         border: 10px solid rgb(0, 217, 255); 
+         border-radius: 10px 30px 60px 120px;
+         margin: 20px;
+      }
+
+.maindiv {
+   margin: 20px;
+   /* text-align: justify; */
+}
+
+.div1{
+   width: 300px ;
+   height: 310px;
+   color: white;
+   background-color: rgb(0, 59, 253);
+   border: 10px solid blueviolet;
+   border-radius: 20px;
+   /* padding: 0px 20px 60px ; */
+   padding: 20px;
+}
+.praesentium1{
+   border: 3px solid white;
+   border-radius: 3px;
+   padding: 0px 3px;
+   height: 50px;
+   width: 100px;
+   /* display: block; */
+   display: inline-block;
+}
+.div2{
+   width: 300px ;
+   height: 310px;
+   color: white;
+   background-color: rgb(60, 112, 0);
+   border: 10px solid blueviolet;
+   border-radius: 20px;
+   padding: 20px;
+   margin: 30px;
+   box-shadow: 10px 10px 10px black;
+}
+
+
+li{
+   display: inline;
+   font-size: 20px;
+   color: red;
+}
+
